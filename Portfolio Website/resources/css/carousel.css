@@ -1,0 +1,36 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    margin: 10px;
+    background-color: #ffffff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+.carousel-item img{
+    max-width: 90%;
+    align-items: center;
+    justify-content: center;
+}
+.carousel-item h5{
+    font-size: 28px;
+    background: rgba(0, 0, 0, 0.5);
+}
+.carousel-item p{
+    font-size: 16px;
+    background: rgba(0, 0, 0, 0.5);
+}
+.carousel-inner img{
+    margin: auto;
+    padding: 10px;
+}
+    
+footer{
+    text-align: center;
+    background-color: #333;
+    padding: 10px;
+}
+.linkedIn{
+    width: 20px;
+}

@@ -1,0 +1,51 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    margin: 10px;
+    background-color: #ffffff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+.self-image{
+    width: 500px;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+.text{
+    flex-grow: 1;
+}
+.text h1{
+    font-size: 48px;
+}
+.text p{
+    font-size: 24px;
+}
+.item{
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 5px;
+}
+.item img{
+    width: 300px;
+    height: auto;
+}
+.item h1{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 24px;
+}
+.item p{
+    font-size: 16px;
+}
+footer{
+    text-align: center;
+    background-color: #333;
+    padding: 10px;
+}
+.linkedIn{
+    width: 20px;
+}
